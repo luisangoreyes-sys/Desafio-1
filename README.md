@@ -1,6 +1,6 @@
-# 📊 Desafío Bulls Store: Análisis de Datos para Toma de Decisiones Estratégicas
+# 📊 Desafío 1: Análisis de Datos para Toma de Decisiones Estratégicas
 
-Este proyecto forma parte de los **Alura Challenges**, donde asumí el rol de Analista de Datos para ayudar al Sr. Juan, dueño de la cadena **Bulls Store**, a decidir cuál de sus 4 tiendas debe vender para financiar un nuevo emprendimiento.
+Este proyecto forma parte de los **Alura Challenges**, donde asumí el rol de Analista de Datos para ayudar al Sr. Juan, dueño de la cadena **ALURA Store**, a decidir cuál de sus 4 tiendas debe vender para financiar un nuevo emprendimiento.
 
 ## 🎯 Objetivo del Proyecto
 Identificar la unidad de negocio con menor rendimiento mediante el análisis de métricas críticas y presentar una recomendación basada 100% en evidencia de datos.
